@@ -1,4 +1,4 @@
 rspec-book
 ==========
 
-Repo of code from The RSpec Book from the Pragmatic Programmers
+Personal repo of code from The RSpec Book from the Pragmatic Programmers.
